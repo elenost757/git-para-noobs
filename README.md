@@ -2,4 +2,4 @@
 
 github para noobs 
 
-[visita google)(hhtp://google.com) //no me pagaron 
+[visita google)(http://google.com) //no me pagaron 
