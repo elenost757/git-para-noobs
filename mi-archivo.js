@@ -1,2 +1,2 @@
-alert("viva mexico")
+alert("viva mexico para todos")
 // es para todos :D
